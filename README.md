@@ -2,8 +2,7 @@
 <h3 align="center">I'm a Computer Science student who is passionate about programming and cybersecurity</h3>
 
 - 🔭 I’m currently studying on **Politechnika Krakowska**
-- 🌱 I’m currently learning **Java**
-- 💬 Ask me about **C++**
+- 🌱 I’m currently learning **C++, Java and Python**
 - 📫 How to reach me **jakubbatycki@pm.me**
 - ⚡ Fun fact **I gaming a lot**
 
