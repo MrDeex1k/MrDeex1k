@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🔭 I’m currently unemployed :(<br>
-🌱 I’m currently learning HTML & CSS & JavaScript<br>
+🌱 I’m currently learning web development<br>
 💬 Ask me about photography and videography<br>
 ⚡ Fun fact i'm gaming a lot
 
