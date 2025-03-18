@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Science student who is passionate about programming and cybersecurity</h3>
 
 # 💫 About Me:
-🔭 I’m currently looking for a job :(<br>
+🔭 I’m currently looking for a job<br>
 🌱 I’m currently learning web development<br>
 💬 Ask me about photography and videography<br>
 ⚡ Fun fact i'm gaming a lot
