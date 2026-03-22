@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a Computer Science student who is passionate about programming and cybersecurity</h3>
+<h3 align="center">I'm a Computer Science | Cybersecurity student</h3>
 
 # 💫 About Me:
-🔭 I’m currently looking for a full-time job <br>
-🌱 I’m currently improving my Engineer's Thesis<br>
+🔭 I’m currently working as Front-End Engineer in DPK System<br>
+🌱 I’m currently improving my cybersecurity skills<br>
 💬 Ask me about photography and videography<br>
 ⚡ Fun fact i'm gaming a lot
 
