@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working as Software Engineer in DPK System<br>
-🌱 I’m currently improving my cybersecurity skills<br>
+🌱 I’m currently improving my mobile development & cybersecurity skills<br>
 💬 Ask me about photography and videography<br>
 ⚡ Fun fact i'm gaming a lot
 
