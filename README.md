@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hello World, I'm Jakub Batycki 👋</h1>
 <h3 align="center">I'm a Software Engineer | Cybersecurity Student</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working as Software Engineer in DPK System<br>
-🌱 I’m currently improving my mobile development & cybersecurity skills<br>
+🔭 I’m currently working as a Software Engineer at DPK System<br>
+🌱 I’m currently improving my mobile development and cybersecurity skills<br>
 💬 Ask me about photography and videography<br>
-⚡ Fun fact i'm gaming a lot
+⚡ Fun fact: I spend a lot of time gaming
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 
 ## 💻 Tech Stack:
 
-#### Blue Team
+### Blue Team
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-2E7D32?style=for-the-badge)
@@ -22,7 +22,7 @@
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-4B5563?style=for-the-badge)
 
-#### Red Team
+### Red Team
 
 ![Nmap](https://img.shields.io/badge/Nmap-0B3D91?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -32,14 +32,16 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frontend & Mobile
+### Web
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![PostCSS](https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)  
 ![TanStack Start](https://img.shields.io/badge/TanStack%20Start-%23000000.svg?style=for-the-badge&logo=tanstack&logoColor=%23ECE8D1) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TanStack Router](https://img.shields.io/badge/TanStack%20Router-%23000000.svg?style=for-the-badge&logo=tanstack&logoColor=%23ECE8D1) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=%23D04A37)
-
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23000000.svg?style=for-the-badge&logo=tanstack&logoColor=%23ECE8D1) ![SWR](https://img.shields.io/badge/SWR-%23000000.svg?style=for-the-badge&logo=swr&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![i18next](https://img.shields.io/badge/i18next-%2326A69A.svg?style=for-the-badge&logo=i18next&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=%23D04A37)
 
 ### Apple Ecosystem
 
